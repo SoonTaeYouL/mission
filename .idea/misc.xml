@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint: Compliance</id>
+          </State>
+          <State>
+            <id>Android Lint: Correctness</id>
+          </State>
+          <State>
+            <id>Android Lint: Performance</id>
+          </State>
+          <State>
+            <id>Android Lint: Security</id>
+          </State>
+          <State>
+            <id>Android Lint: Usability</id>
+          </State>
+          <State>
+            <id>JavaScript 및 TypeScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>스타일 문제Kotlin</id>
+          </State>
+          <State>
+            <id>일반JavaScript 및 TypeScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="graalvm-ce-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
